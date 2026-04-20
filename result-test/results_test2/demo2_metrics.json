@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.4731,
+    "overall_quality": 0.8419
+  },
+  "metadata": {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "wanx",
+    "prompt": "a real stray cat sitting on stone floor, clearly defined cat silhouette with legs visible, natural cat pose with distinc"
+  },
+  "timestamp": "2026-04-20T23:58:43.593663"
+}

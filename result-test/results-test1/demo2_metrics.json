@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 0.999222,
+    "boundary_quality": 0.187,
+    "overall_quality": 0.7556
+  },
+  "metadata": {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "wanx",
+    "prompt": "在画面左下角石板地上添加一只坐着的流浪猫"
+  },
+  "timestamp": "2026-04-21T00:24:02.546801"
+}

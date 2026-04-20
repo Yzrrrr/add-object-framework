@@ -1,0 +1,47 @@
+[
+  {
+    "image": "demo1.jpg",
+    "object_added": "a seagull",
+    "backend": "wanx",
+    "pixel_alignment": 0.9975800138149383,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.6983060096704568,
+    "passed": false
+  },
+  {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "wanx",
+    "pixel_alignment": 0.9992220428473331,
+    "boundary_quality": 0.18704019037226616,
+    "overall_quality": 0.755567487104813,
+    "passed": true
+  },
+  {
+    "image": "demo3.jpg",
+    "object_added": "a small flower",
+    "backend": "wanx",
+    "pixel_alignment": 0.9989170473968968,
+    "boundary_quality": 0.6253842526095506,
+    "overall_quality": 0.8868572089606929,
+    "passed": false
+  },
+  {
+    "image": "demo4.jpg",
+    "object_added": "a white flower",
+    "backend": "wanx",
+    "pixel_alignment": 0.9964077133380598,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.6974853993366418,
+    "passed": false
+  },
+  {
+    "image": "demo5.jpg",
+    "object_added": "an eagle",
+    "backend": "wanx",
+    "pixel_alignment": 0.9984132905458724,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.6988893033821106,
+    "passed": false
+  }
+]

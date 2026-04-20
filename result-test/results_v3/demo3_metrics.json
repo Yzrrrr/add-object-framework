@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.5127,
+    "overall_quality": 0.8538
+  },
+  "metadata": {
+    "image": "demo3.jpg",
+    "object_added": "a small flower",
+    "backend": "wanx-description_edit",
+    "prompt": "在小猫的项圈上添加一朵小雏菊"
+  },
+  "timestamp": "2026-04-21T00:10:02.864527"
+}

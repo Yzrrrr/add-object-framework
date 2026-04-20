@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.7
+  },
+  "metadata": {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "prompt": "在画面左下角石板地上添加一只坐着的流浪猫"
+  },
+  "timestamp": "2026-04-21T00:15:12.318743"
+}

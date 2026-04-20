@@ -1,0 +1,24 @@
+# Add Object Framework Dependencies
+# Cloud-only version: Qwen2.5-VL + wanx2.1
+
+# Core
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# API Clients
+aiohttp>=3.9.0
+httpx>=0.25.0
+
+# ML/Inference (for Qwen2.5-VL local)
+torch>=2.0.0
+transformers>=4.40.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+tqdm>=4.66.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

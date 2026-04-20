@@ -1,0 +1,11 @@
+[
+  {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "wanx",
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.4731337458080084,
+    "overall_quality": 0.8419401237424025,
+    "passed": true
+  }
+]

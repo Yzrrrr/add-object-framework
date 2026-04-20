@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.7
+  },
+  "metadata": {
+    "image": "demo4.jpg",
+    "object_added": "a white flower",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "prompt": "在画面中间女性的卷发上添加一朵白色花朵"
+  },
+  "timestamp": "2026-04-21T00:15:45.736525"
+}

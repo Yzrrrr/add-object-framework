@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 0.998413,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.6989
+  },
+  "metadata": {
+    "image": "demo5.jpg",
+    "object_added": "an eagle",
+    "backend": "wanx",
+    "prompt": "在画面右上角天空中添加一只翱翔的老鹰"
+  },
+  "timestamp": "2026-04-21T00:24:38.277192"
+}

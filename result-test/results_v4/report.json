@@ -1,0 +1,42 @@
+[
+  {
+    "image": "demo1.jpg",
+    "object_added": "a seagull",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.7,
+    "passed": true
+  },
+  {
+    "image": "demo2.jpg",
+    "object_added": "a stray cat",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.7,
+    "passed": true
+  },
+  {
+    "image": "demo3.jpg",
+    "object_added": "a small flower",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.08877525945005471,
+    "overall_quality": 0.7266325778350163,
+    "passed": true
+  },
+  {
+    "image": "demo4.jpg",
+    "object_added": "a white flower",
+    "backend": "qwen-qwen-image-2.0-pro",
+    "pixel_alignment": 1.0,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.7,
+    "passed": true
+  },
+  {
+    "image": "demo5.jpg",
+    "error": "qwen-image-edit failed [429]: {\"code\":\"Throttling.RateQuota\",\"message\":\"Requests rate limit exceeded, please try again later. For details, see: https://help.aliyun.com/zh/model-studio/error-code#rate-limit\",\"request_id\":\"212ed077-38b3-9441-b3c8-569239c35678\"}"
+  }
+]

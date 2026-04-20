@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "pixel_alignment": 0.99758,
+    "boundary_quality": 0.0,
+    "overall_quality": 0.6983
+  },
+  "metadata": {
+    "image": "demo1.jpg",
+    "object_added": "a seagull",
+    "backend": "wanx",
+    "prompt": "在画面左上方天空中添加一只飞翔的海鸥"
+  },
+  "timestamp": "2026-04-21T00:23:51.466347"
+}
